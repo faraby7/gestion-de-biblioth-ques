@@ -1,0 +1,4 @@
+AuthName "Page protégé : administration"
+AuthType Basic
+AuthUserFile "C:\wamp\www\bibliotheque\admin\.htpasswd"
+Require valid-user
